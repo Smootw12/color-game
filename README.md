@@ -1,4 +1,4 @@
-# color-game
+# Color Game! 🎮
 
 simple color quiz game made with CRA to improve react hooks. Thanks to @WebDevCody!
 
